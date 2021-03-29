@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "azureMediaPlayerSample"
+  "defaultProject": "azureMediaPlayerSample",
+  "cli": {
+    "analytics": "bce6aff4-8e33-4496-8465-66c73fb2829c"
+  }
 }
